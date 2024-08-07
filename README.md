@@ -1,4 +1,4 @@
-# KEMET Application
+# Egypt Explorer - Mobile Application
 Egypt Explorer is a mobile application designed to help tourists explore Egypt using advanced computer vision technology. With this app, users can easily install and use a variety of features to enhance their travel experience, including scanning monuments for detailed information, checking event details, conversing with a chatbot, getting weather updates based on their location, and converting English text into Egyptian hieroglyphics.
 
 ## Features
